@@ -1,0 +1,36 @@
+html {
+    font-size: 14px;
+    font-family: "Saira";
+    background-color: burlywood;
+    color: whitesmoke;
+}
+
+h1 {
+    font-size: 48px;
+    font-family: "Acme";
+    text-align: center;
+    margin: 0;
+    padding: 20px 0;
+}
+
+p, li {
+    line-height: 1.2;
+    letter-spacing: 1px;
+}
+
+body {
+    width: 550px;
+    margin: 20px auto;
+    background-color: crimson;
+    padding: 20px 20px 20px 20px;
+    border: 3px solid brown;    
+}
+
+strong {
+    font-family: "Acme";
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
